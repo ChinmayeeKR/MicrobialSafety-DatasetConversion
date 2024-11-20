@@ -1,6 +1,6 @@
-from src.static.paths import static_paths
-from src.controller.LSVController import LSVController
-from src.controller.JSONController import JsonController
+from static.paths import static_paths
+from controller.LSVController import LSVController
+from controller.JSONController import JsonController
 import os
 import json
 

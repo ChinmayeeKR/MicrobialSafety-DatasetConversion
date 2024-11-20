@@ -1,4 +1,4 @@
-from src.static.paths.PathCheck import PathCheck
+from static.paths.PathCheck import PathCheck
 
 
 """
