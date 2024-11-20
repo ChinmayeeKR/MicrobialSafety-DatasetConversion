@@ -1,5 +1,5 @@
 import argparse
-from src.command.convert2squad import convert2squad
+from command.convert2squad import convert2squad
 
 def main():
     """
