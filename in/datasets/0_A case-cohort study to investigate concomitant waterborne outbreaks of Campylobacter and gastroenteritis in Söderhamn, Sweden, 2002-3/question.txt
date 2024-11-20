@@ -1,0 +1,23 @@
+Date of the event
+Location of the event
+Description of the contamination event
+What was the initial cause of the event/outbreak?
+What wast the source that started the contamination event?
+How was the event first detected?
+How many people were exposed/hospitalized because of the event?
+How many people were ill because of the event?
+Attack rate (Ratio between number ill and number exposed)
+How many people died because of the event?
+What are the pathogens found in the samples?
+What are the associated symptoms?
+What are the initial steps of investigation/inspection?
+what kind of detailed investigation/inspection was conducted?
+what is the case definition for the case cohort study?
+what were the risk factors identified?
+Duration of the event
+What are the first steps on mitigation? (e.g. boil water order, stop water supply, chlorination of network)
+Event monitoring (The types of water analysis performed)
+Monitoring results (Concentration of contaminant detected after analysis)
+Steps taken to restore the system
+Measures to prevent the contamination event from happening again
+Demographic (The age of the affected people)

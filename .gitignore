@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Reference Codes and Documents
+__reference
+_out
+
+# output directory
+out
+
 # C extensions
 *.so
 
